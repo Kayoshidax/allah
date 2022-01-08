@@ -1,7 +1,7 @@
 # allah
 <div align="center">
    <a href="https://discord.com/users/617777425853710336" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/617777425853710336?bg=111111">
+      <img src="https://lanyard.cnrad.dev/api/617777425853710336">
    </a>
 </div>
 <p align="center">
